@@ -12,7 +12,6 @@ If user decides to not follow any of the given prompts the wite will instruct th
 
 ## Links:
 
-This project has been deployed to GitHub Pages. To get this project up and running, you can follow the deployment link. Or, download the sources files to use this as a template.
 
 * [GitHub Repository](https://github.com/jcgom3/Challenge-3-Password-Generator)
 * [Deployed GitHub IO](https://jcgom3.github.io/Challenge-3-Password-Generator)
